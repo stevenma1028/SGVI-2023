@@ -34,3 +34,7 @@ The file normalization_stats.txt contains the maximum and minimum values for eac
 ReViT (https://github.com/ADiko1997/ReViT)
 
 Depth-Anything-V2 (https://github.com/DepthAnything/Depth-Anything-V2)
+
+
+# Citations
+coming soon
