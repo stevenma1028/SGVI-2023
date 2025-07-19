@@ -27,4 +27,4 @@ The inference procedure is provided in apply.py. This script shows how to use th
 Datasets and model weights are hosted on Figshare.
 (Download link: coming soon)
 
-The file normalization_stats.txt contains the normalization parameters (mean and standard deviation) for each band of the multi-source remote sensing inputs. These values were computed over the entire raw dataset to ensure consistent preprocessing during both training and inference.
+The file normalization_stats.txt contains the maximum and minimum values for each band of the multi-source remote sensing imagery. These values were computed from the entire raw dataset and are used to perform min-max normalization during training and inference.
