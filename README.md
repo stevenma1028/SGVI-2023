@@ -28,3 +28,8 @@ Datasets and model weights are hosted on Figshare.
 (Download link: coming soon)
 
 The file normalization_stats.txt contains the maximum and minimum values for each band of the multi-source remote sensing imagery. These values were computed from the entire raw dataset and are used to perform min-max normalization during training and inference.
+
+# Reference
+
+ReViT (https://github.com/ADiko1997/ReViT)
+Depth-Anything-V2 (https://github.com/DepthAnything/Depth-Anything-V2)
