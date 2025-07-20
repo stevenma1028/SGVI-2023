@@ -35,7 +35,7 @@ The file normalization_stats.txt contains the maximum and minimum values for eac
 
 [Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2)
 
-[From sky to ground: Monitoring visible street greenery via multisource remote sensing imagery with deep learning](https://www.sciencedirect.com/science/article/pii/S1618866725002006)
+[From sky to ground: Monitoring visible street greenery via multisource remote sensing imagery with deep learning.Urban For Urban Green 109, 128866 (2025)](https://www.sciencedirect.com/science/article/pii/S1618866725002006)
 
 # Citations
 coming soon
