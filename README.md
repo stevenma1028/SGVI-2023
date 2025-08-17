@@ -25,7 +25,7 @@ The inference procedure is provided in apply.py. This script shows how to use th
 
 
 Datasets and model weights are hosted on Figshare.
-(Download link: coming soon)
+[Download link](https://doi.org/10.6084/m9.figshare.28869701)
 
 The file normalization_stats.txt contains the maximum and minimum values for each band of the multi-source remote sensing imagery. These values were computed from the entire raw dataset and are used to perform min-max normalization during training and inference.
 
