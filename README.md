@@ -38,4 +38,4 @@ The file normalization_stats.txt contains the maximum and minimum values for eac
 [From sky to ground: Monitoring visible street greenery via multisource remote sensing imagery with deep learning.Urban For Urban Green 109, 128866 (2025)](https://www.sciencedirect.com/science/article/pii/S1618866725002006)
 
 # Citations
-coming soon
+Ma, Y., Chen, P., Gong, M. et al. The First Seasonal Green View Index Mapping Dataset across Chinese cities powered by deep learning. Sci Data 12, 1356 (2025). https://doi.org/10.1038/s41597-025-05706-1
